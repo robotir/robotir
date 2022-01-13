@@ -1,1 +1,1 @@
-# Hi, I'm Iain, a freelance developer based in Berlin.
+# Hi, I'm Iain, a developer based in Berlin.
